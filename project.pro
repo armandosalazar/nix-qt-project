@@ -17,3 +17,6 @@ INCLUDEPATH += .
 SOURCES += main.cpp
 
 QT += widgets
+
+# add -l sqlite3
+LIBS += -l sqlite3

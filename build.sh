@@ -1,5 +1,5 @@
 #!/bin/bash
 
 # qmake
-make
+# make
 ./QtApp.app/Contents/MacOS/QtApp
